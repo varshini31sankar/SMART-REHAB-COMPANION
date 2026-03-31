@@ -28,12 +28,12 @@ The system provides a wearable and interactive rehabilitation platform consistin
 
 ⚙️ Key Features
 
-✔ Real-time muscle activity monitoring
-✔ Motion tracking using IMU
-✔ Grip strength analysis
-✔ Instant feedback via LCD, buzzer & LED
-✔ Remote monitoring for physiotherapists
-✔ Low-cost and scalable design
+ Real-time muscle activity monitoring
+ Motion tracking using IMU
+ Grip strength analysis
+ Instant feedback via LCD, buzzer & LED
+ Remote monitoring for physiotherapists
+Low-cost and scalable design
 
 Working Principle
 Sensors collect data:
